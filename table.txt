@@ -1,0 +1,31 @@
+create table employee(employee_ID varchar(10), name varchar(20), location varchar(30), designation varchar(30));
+
+insert into employee(employee_ID, name, location, designation)
+values('1', 'george', 'India', 'Project Manager');
+
+insert into employee(employee_ID, name, location, designation)
+values('2', 'mary', 'America', 'Software Developer');
+
+insert into employee(employee_ID, name, location, designation)
+values('3', 'Rohit', 'Africa', 'Software Tester');
+
+select * from employee;
+
+
+
+SELECT sys_context ('USERENV','db_name') db_name,
+            sys_context ('USERENV','server_host') server_host,
+            sys_context ('USERENV','current_schema') current_schema,
+            sys_context ('USERENV','session_user') current_user,
+            sys_context ('USERENV','host') client_host,
+            sys_context ('USERENV','ip_address') client_ip_address
+     FROM dual;
+
+
+
+
+
+conn / as sysdba
+
+user-name: system
+password: System

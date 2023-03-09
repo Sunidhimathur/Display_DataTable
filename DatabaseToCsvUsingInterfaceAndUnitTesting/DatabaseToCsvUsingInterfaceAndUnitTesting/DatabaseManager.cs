@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Data;
@@ -26,30 +26,34 @@ namespace DatabaseToCsvUsingInterfaceAndUnitTesting
                 sqlConnection.Open();
             }
 
-            public IEnumerable<List<string>> ExecuteSqlCommand(string query)
+            public SqlCommand CreateSqlCommand(string query)
             {
-                using (SqlCommand sqlCommand = new SqlCommand(query, sqlConnection))
+                return new SqlCommand(query, sqlConnection);
+            }
+
+            public SqlDataReader ExecuteSqlCommand(SqlCommand sqlCommand)
+            {
+                return sqlCommand.ExecuteReader();
+            }
+
+            public IEnumerable<List<string>> ReadSqlDataReader(SqlDataReader sqlReader)
+            {
+                DataTable dataTable = new DataTable();
+                dataTable.Load(sqlReader);
+
+                var data = new List<List<string>>();
+                var columnNames = dataTable.Columns.Cast<DataColumn>()
+                    .Select(column => column.ColumnName)
+                    .ToList();
+                data.Add(columnNames);
+
+                foreach (DataRow row in dataTable.Rows)
                 {
-                    using (SqlDataReader sqlReader = sqlCommand.ExecuteReader())
-                    {
-                        DataTable dataTable = new DataTable();
-                        dataTable.Load(sqlReader);
-
-                        var data = new List<List<string>>();
-                        var columnNames = dataTable.Columns.Cast<DataColumn>()
-                            .Select(column => column.ColumnName)
-                            .ToList();
-                        data.Add(columnNames);
-
-                        foreach (DataRow row in dataTable.Rows)
-                        {
-                            var rowValues = row.ItemArray.Select(field => $"\"{field}\"").ToList();
-                            data.Add(rowValues);
-                        }
-
-                        return data;
-                    }
+                    var rowValues = row.ItemArray.Select(field => $"\"{field}\"").ToList();
+                    data.Add(rowValues);
                 }
+
+                return data;
             }
 
             public void WriteToCsvFile(IEnumerable<List<string>> data, string filePath)
@@ -114,4 +118,3 @@ namespace DatabaseToCsvUsingInterfaceAndUnitTesting
         }
     }
 }
-

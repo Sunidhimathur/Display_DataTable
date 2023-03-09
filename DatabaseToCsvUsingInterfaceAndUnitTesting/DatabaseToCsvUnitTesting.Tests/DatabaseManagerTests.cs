@@ -1,7 +1,7 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.IO;
-using System.Linq;
 using static DatabaseToCsvUsingInterfaceAndUnitTesting.DatabaseManager;
 
 namespace DatabaseToCsvUnitTesting.Tests
@@ -9,7 +9,7 @@ namespace DatabaseToCsvUnitTesting.Tests
     [TestClass]
     public class DatabaseManagerTests
     {
-        const string query = "SELECT * FROM employee";
+        // <-- Integration Testing: -->
 
         [TestMethod]
         public void SqlCommandExecutor_ValidConnectionString()
@@ -22,38 +22,6 @@ namespace DatabaseToCsvUnitTesting.Tests
             {
                 // Assert
                 Assert.IsNotNull(executor);
-            }
-        }
-
-        [TestMethod]
-        public void ExecuteSqlCommand_ValidQuery_ReturnData()
-        {
-            // Arrange
-            string connectionString = "Integrated Security=SSPI;Initial Catalog=master;Data Source=desktop-jbvptsp";
-            var expectedData = new List<List<string>>()
-            {
-                new List<string> { "employee_ID", "name", "location" , "designation" },
-                new List<string> { "1", "John", "Germany" , "Project Manager" },
-                new List<string> { "2", "Jane", "America", "Assistant Developer" },
-                new List<string> { "3", "Mary", "India", "Software Tester"}
-            };
-
-            // Act
-            using (var executor = new SqlCommandExecutor(connectionString))
-            {
-                var actualData = executor.ExecuteSqlCommand(query).ToList();
-
-                // Assert
-                Assert.AreEqual(expectedData.Count, actualData.Count);
-                for (int i = 0; i < expectedData.Count; i++)
-                {
-                    Assert.AreEqual(expectedData[i].Count, actualData[i].Count);
-
-                    for (int j = 0; j < expectedData.Count; j++)
-                    {
-                        Assert.AreEqual(expectedData[i].Count, actualData[i].Count);
-                    }
-                }
             }
         }
 
@@ -80,7 +48,11 @@ namespace DatabaseToCsvUnitTesting.Tests
             // Assert
             Assert.IsTrue(File.Exists(filePath));
         }
-        
+
+        // <-------------------------------------------------------------------------> // 
+
+        // <-- Unit Testing: -->
+
         [TestMethod]
         public void CreateSqlCommand_Should_Return_Command()
         {

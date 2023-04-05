@@ -91,28 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectionManager.cs" />
-    <Compile Include="Course.cs">
-      <DependentUpon>CourseModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="CourseModel.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>CourseModel.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="CourseModel.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>CourseModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="CourseModel.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>CourseModel.edmx</DependentUpon>
-    </Compile>
     <Compile Include="CsvWriter.cs" />
-    <Compile Include="C__MigrationHistory.cs">
-      <DependentUpon>CourseModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="DataReaderConverter.cs" />
     <Compile Include="MsAzure.cs" />
     <Compile Include="MyDbContext.cs" />
@@ -121,39 +100,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sql.cs" />
     <Compile Include="SqlCommandExecutor.cs" />
-    <Compile Include="Student.cs">
-      <DependentUpon>CourseModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="StudentAddress.cs">
-      <DependentUpon>CourseModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Subject.cs">
-      <DependentUpon>CourseModel.tt</DependentUpon>
-    </Compile>
+    <Compile Include="Student.cs" />
+    <Compile Include="StudentAddress.cs" />
+    <Compile Include="Subject.cs" />
     <Compile Include="UserInterface.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <EntityDeploy Include="CourseModel.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>CourseModel.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <None Include="CourseModel.edmx.diagram">
-      <DependentUpon>CourseModel.edmx</DependentUpon>
-    </None>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="CourseModel.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>CourseModel.edmx</DependentUpon>
-      <LastGenOutput>CourseModel.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="CourseModel.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>CourseModel.edmx</DependentUpon>
-      <LastGenOutput>CourseModel.cs</LastGenOutput>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

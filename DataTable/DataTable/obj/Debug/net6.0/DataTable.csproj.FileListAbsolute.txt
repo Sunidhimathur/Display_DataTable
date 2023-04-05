@@ -1,0 +1,45 @@
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\bin\Debug\net6.0\DataTable.exe
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\bin\Debug\net6.0\DataTable.deps.json
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\bin\Debug\net6.0\DataTable.runtimeconfig.json
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\bin\Debug\net6.0\DataTable.dll
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\bin\Debug\net6.0\DataTable.pdb
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\DataTable.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\DataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfoInputs.cache
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfo.cs
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\DataTable.dll
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\refint\DataTable.dll
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\DataTable.pdb
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\DataTable.genruntimeconfig.cache
+C:\Users\670285104\Desktop\DataTable to .csv\DataTable\DataTable\obj\Debug\net6.0\ref\DataTable.dll
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.exe
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.deps.json
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.runtimeconfig.json
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.dll
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.pdb
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfoInputs.cache
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfo.cs
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.dll
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\refint\DataTable.dll
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.pdb
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.genruntimeconfig.cache
+C:\Users\670285104\Desktop\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\ref\DataTable.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.exe
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.deps.json
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.runtimeconfig.json
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\bin\Debug\net6.0\DataTable.pdb
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfoInputs.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.AssemblyInfo.cs
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\refint\DataTable.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.pdb
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\DataTable.genruntimeconfig.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTable\DataTable\obj\Debug\net6.0\ref\DataTable.dll

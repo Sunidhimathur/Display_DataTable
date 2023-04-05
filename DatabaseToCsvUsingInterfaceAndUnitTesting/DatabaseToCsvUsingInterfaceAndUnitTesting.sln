@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseToCsvUsingInterfaceAndUnitTesting", "DatabaseToCsvUsingInterfaceAndUnitTesting\DatabaseToCsvUsingInterfaceAndUnitTesting.csproj", "{454CEE20-A82E-41AA-AAD7-5C283CC1EC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseToCsvUnitTesting.Tests", "DatabaseToCsvUnitTesting.Tests\DatabaseToCsvUnitTesting.Tests.csproj", "{7CC5E073-59EE-43FB-ADB0-37B692E1DF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454CEE20-A82E-41AA-AAD7-5C283CC1EC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454CEE20-A82E-41AA-AAD7-5C283CC1EC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454CEE20-A82E-41AA-AAD7-5C283CC1EC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454CEE20-A82E-41AA-AAD7-5C283CC1EC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC5E073-59EE-43FB-ADB0-37B692E1DF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC5E073-59EE-43FB-ADB0-37B692E1DF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC5E073-59EE-43FB-ADB0-37B692E1DF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC5E073-59EE-43FB-ADB0-37B692E1DF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41FE7BF9-6545-41C5-A7BC-D8FAE35D88AC}
+	EndGlobalSection
+EndGlobal

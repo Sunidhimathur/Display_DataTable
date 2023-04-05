@@ -1,0 +1,17 @@
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\DataTableWithCRUDoperations.exe.config
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\DataTableWithCRUDoperations.exe
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\DataTableWithCRUDoperations.pdb
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\System.Security.AccessControl.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\System.Security.Permissions.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\System.Security.AccessControl.xml
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\System.Security.Permissions.xml
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\obj\Debug\DataTableWithCRUDoperations.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\obj\Debug\DataTableWithCRUDoperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\obj\Debug\DataTableWithCRUDoperations.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\obj\Debug\DataTableWithCRUDoperations.csproj.CopyComplete
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\obj\Debug\DataTableWithCRUDoperations.exe
+C:\Users\670285104\Desktop\Practice\Display DataTable\DataTableWithCRUDoperations\DataTableWithCRUDoperations\obj\Debug\DataTableWithCRUDoperations.pdb

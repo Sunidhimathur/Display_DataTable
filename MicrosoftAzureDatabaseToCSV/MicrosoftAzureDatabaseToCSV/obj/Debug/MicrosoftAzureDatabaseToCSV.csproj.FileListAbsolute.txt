@@ -1,0 +1,34 @@
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\MicrosoftAzureDatabaseToCSV.exe.config
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\MicrosoftAzureDatabaseToCSV.exe
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\MicrosoftAzureDatabaseToCSV.pdb
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.AccessControl.dll
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.Permissions.dll
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.AccessControl.xml
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.Permissions.xml
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.csproj.CopyComplete
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.exe
+C:\Users\670285104\Desktop\Practice\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.pdb
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\MicrosoftAzureDatabaseToCSV.exe.config
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\MicrosoftAzureDatabaseToCSV.exe
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\MicrosoftAzureDatabaseToCSV.pdb
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.AccessControl.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.Permissions.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.AccessControl.xml
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.Permissions.xml
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.csproj.AssemblyReference.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.csproj.CoreCompileInputs.cache
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.csproj.CopyComplete
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.exe
+C:\Users\670285104\Desktop\Practice\Display DataTable\MicrosoftAzureDatabaseToCSV\MicrosoftAzureDatabaseToCSV\obj\Debug\MicrosoftAzureDatabaseToCSV.pdb

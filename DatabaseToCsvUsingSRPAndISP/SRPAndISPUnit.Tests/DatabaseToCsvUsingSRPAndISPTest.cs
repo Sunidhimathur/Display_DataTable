@@ -14,7 +14,7 @@ namespace SRPAndISPUnit.Tests
         private ConnectionManager connectionManager;
         private Mock<IDataReader> mockDataReader;
         private DataReaderConverter dataReaderConverter;
-       
+
         [TestInitialize]
         public void Initialize()
         {

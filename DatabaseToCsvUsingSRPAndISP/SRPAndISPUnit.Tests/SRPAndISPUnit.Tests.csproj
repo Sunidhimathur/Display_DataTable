@@ -5,12 +5,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E046D238-4226-4B32-A7F7-B52E5D0B9827}</ProjectGuid>
+    <ProjectGuid>{73189FC7-0965-4BA6-847C-B940F76E3F44}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SRPAndISPUnit.Tests</RootNamespace>
     <AssemblyName>SRPAndISPUnit.Tests</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">15.0</VisualStudioVersion>
@@ -72,7 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DatabaseToCsvUsingSRPAndISP\DatabaseToCsvUsingSRPAndISP.csproj">
-      <Project>{471e0c1b-e622-4ba1-a56c-a2467bbda3bb}</Project>
+      <Project>{9529a1db-b5af-4e58-aeb4-9302eedd5b93}</Project>
       <Name>DatabaseToCsvUsingSRPAndISP</Name>
     </ProjectReference>
   </ItemGroup>
